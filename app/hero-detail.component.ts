@@ -1,4 +1,3 @@
-import {Component, Input} from '@angular/core';
 import {Hero} from './hero';
 // Keep the Input import for now, we'll remove it later:
 import { Component, Input, OnInit } from '@angular/core';
